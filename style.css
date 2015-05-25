@@ -276,7 +276,41 @@ html, body {
 	padding: 0;
 }
 
+.final-pic {
+	width: 870px;
+	height: 507px;
+	margin: 0 auto;
+	padding: 29px;
+	background: #fff;
+}
 
+.text-container {
+	width: 870px;
+	background: #fff;
+	margin: 0 auto;
+	padding: 29px;
+}
+
+.graf-p {
+	font-size: 14px;
+	text-align: justify;
+}
+
+.graf-p.center-p {
+	text-align: center;
+}
+
+.graf-p.center-p-bold {
+	text-align: center;
+	font-weight: 700;
+}
+
+.video-container {
+	margin: 0 auto;
+	width: 870px;
+	background: #fff;
+	padding: 29px;
+}
 
 
 
